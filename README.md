@@ -13,6 +13,8 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python" alt="Python"/></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=for-the-badge&logo=go" alt="Go"/></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge&logo=java" alt="Java"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus" alt="C++"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.97-000000?style=for-the-badge&logo=rust" alt="Rust"/></a>
   <img src="https://img.shields.io/badge/MCP-AI%20Tools-6b21a8?style=for-the-badge" alt="MCP"/>
 </p>
 
@@ -46,9 +48,9 @@
     <td align="center" width="200"><b>📄 GlassParse AI</b><br/><small>Go</small><br/><a href="https://github.com/cokovali10-sketch/glassparse-ai"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>LLM-ready HTML → JSON/Markdown/embeddings scraper</sub></td>
   </tr>
   <tr>
+    <td align="center" width="200"><b>🔨 ForgeEngine</b><br/><small>C++ / Rust</small><br/><a href="https://github.com/cokovali10-sketch/ForgeEngine"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>2D game engine: ECS core, SDL2 renderer, AABB physics, C++↔Rust tools</sub></td>
     <td align="center" width="200"><b>🧠 flashcard-mcp</b><br/><small>Python</small><br/><a href="https://github.com/cokovali10-sketch/flashcard-mcp"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>SM-2 spaced-repetition memory server for any AI assistant</sub></td>
     <td align="center" width="200"><b>🌍 WorldScanner</b><br/><small>Kotlin</small><br/><a href="https://github.com/cokovali10-sketch/WorldScanner"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Minecraft region-file scanner: blocks, items, entities → JSON/CSV</sub></td>
-    <td align="center" width="200"><b>🎭 MockPulse</b><br/><small>Go/Kotlin</small><br/><a href="https://github.com/cokovali10-sketch/Mockpulse"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Zero-config OpenAPI mock server with Lua scripting & chaos</sub></td>
     <td align="center" width="200"><b>☕ caffeine-glass-ui</b><br/><small>HTML/JS</small><br/><a href="https://github.com/cokovali10-sketch/caffeine-glass-ui"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Luxury 3D WebGL + Glassmorphism one-page experience</sub></td>
   </tr>
 </table>
@@ -58,7 +60,7 @@
 ## ⚙️ Tech Stack
 
 ```
-Languages     Python · Go · Java · Kotlin · JavaScript · TypeScript · HTML/CSS
+Languages     Python · Go · Java · C++ · Rust · Kotlin · JavaScript · HTML/CSS
 AI / LLM      OpenAI API · Anthropic Claude · MCP · RAG · Vector embeddings
 Frameworks    FastAPI · Compose Multiplatform · aiogram · JDA · Typer
 Security      eBPF · Wireshark · Honeypots · API fuzzing · Threat intelligence
