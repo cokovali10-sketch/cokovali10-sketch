@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cokovali10-sketch?tab=repositories"><img src="https://img.shields.io/badge/Projects-18+-38bdf8?style=for-the-badge" alt="Projects"/></a>
+  <a href="https://github.com/cokovali10-sketch?tab=repositories"><img src="https://img.shields.io/badge/Projects-16-38bdf8?style=for-the-badge" alt="Projects"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python" alt="Python"/></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=for-the-badge&logo=go" alt="Go"/></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge&logo=java" alt="Java"/></a>
