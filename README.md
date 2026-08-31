@@ -15,6 +15,7 @@
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge&logo=java" alt="Java"/></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus" alt="C++"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.97-000000?style=for-the-badge&logo=rust" alt="Rust"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.3%2B-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript"/></a>
   <img src="https://img.shields.io/badge/MCP-AI%20Tools-6b21a8?style=for-the-badge" alt="MCP"/>
 </p>
 
@@ -38,6 +39,23 @@
 | 🎮 **Minecraft** | World scanning, region file analysis, performance modding |
 | 🌐 **Web / Full-stack** | Compose Multiplatform, FastAPI, WebGL/3D UIs, bots |
 
+---
+
+## 🛠️ Hermes Ecosystem (AI Agent Tool Suite)
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <b>🔧 Hermes Studio</b><br/>
+      <small>Python</small><br/>
+      <a href="https://github.com/cokovali10-sketch/hermes-studio"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Agentic Tool Suite — 16 tools, safety protocol, plugins, project templates. 100% offline AI agent.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📦 Highlighted Projects
 
 <table>
@@ -57,14 +75,90 @@
 
 > Explore all projects → [Full repository list](https://github.com/cokovali10-sketch?tab=repositories)
 
+---
+
+## 🔨 10 Production-Ready Projects (Hermes v4.0)
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>📊 LogPulse</b><br/>
+      <small>Python · 24 tests</small><br/>
+      <a href="https://github.com/cokovali10-sketch/LogPulse"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Advanced log analyzer: syslog, Nginx, Apache, Windows Event Log, JSON parsing + filtering + 4 report formats</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🔍 JobScout</b><br/>
+      <small>Python · 10 tests</small><br/>
+      <a href="https://github.com/cokovali10-sketch/JobScout"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Async data collector: HTTP, RSS, files with retry, rate limiting, deduplication</sub>
+    </td>
+    <td align="center" width="200">
+      <b>✅ TaskFlow CLI</b><br/>
+      <small>TypeScript</small><br/>
+      <a href="https://github.com/cokovali10-sketch/TaskFlowCLI"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Interactive task manager: priorities, tags, search, stats, persistent storage</sub>
+    </td>
+    <td align="center" width="200">
+      <b>📈 ExpressPulse API</b><br/>
+      <small>Node.js / TypeScript</small><br/>
+      <a href="https://github.com/cokovali10-sketch/ExpressPulseAPI"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>System monitoring REST API: CPU, memory, disk, metrics history</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <b>🔎 FastDupFinder</b><br/>
+      <small>Rust</small><br/>
+      <a href="https://github.com/cokovali10-sketch/FastDupFinder"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>SHA-256 duplicate file finder with size pre-filter and dry-run mode</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🌐 ProxyLog</b><br/>
+      <small>Rust</small><br/>
+      <a href="https://github.com/cokovali10-sketch/ProxyLog"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Mini HTTP proxy for request interception and logging</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🎮 RetroTerm</b><br/>
+      <small>C++17</small><br/>
+      <a href="https://github.com/cokovali10-sketch/RetroTerm"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Roguelike dungeon crawler: procedural gen, turn-based combat, ANSI rendering</sub>
+    </td>
+    <td align="center" width="200">
+      <b>💾 DiskScope</b><br/>
+      <small>C++17</small><br/>
+      <a href="https://github.com/cokovali10-sketch/DiskScope"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Disk space analyzer: directory tree, top extensions, largest files</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <b>🚀 GoPortScan</b><br/>
+      <small>Go · 6 tests</small><br/>
+      <a href="https://github.com/cokovali10-sketch/GoPortScan"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>Concurrent TCP port scanner: banner grabbing, service detection, JSON output</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🔐 GoVault</b><br/>
+      <small>Go · 11 tests</small><br/>
+      <a href="https://github.com/cokovali10-sketch/GoVault"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>AES-256-GCM encrypted storage: secrets, tags, export/import, backup</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚙️ Tech Stack
 
 ```
-Languages     Python · Go · Java · C++ · Rust · Kotlin · JavaScript · HTML/CSS
+Languages     Python · Go · Java · C++ · Rust · Kotlin · TypeScript · JavaScript · HTML/CSS
 AI / LLM      OpenAI API · Anthropic Claude · MCP · RAG · Vector embeddings
-Frameworks    FastAPI · Compose Multiplatform · aiogram · JDA · Typer
+Frameworks    FastAPI · Compose Multiplatform · aiogram · JDA · Typer · Express.js
 Security      eBPF · Wireshark · Honeypots · API fuzzing · Threat intelligence
 Infra         Git/GitHub Actions · Docker · SQLite · WebSockets · REST
+Tools         Ollama · AES-256-GCM · SHA-256 · Tokio · Hyper · SDL2
 ```
 
 ## 📊 GitHub Stats
