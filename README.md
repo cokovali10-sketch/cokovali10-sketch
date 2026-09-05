@@ -30,6 +30,55 @@
 
 ---
 
+## 🚀 Flagship Project: NanoContainer
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <b>🐳 NanoContainer</b><br/>
+      <small>Go · Linux Kernel · 9300+ lines</small><br/>
+      <a href="https://github.com/cokovali10-sketch/NanoContainer"><img src="https://img.shields.io/badge/-View%20Repository-38bdf8?style=for-the-badge" alt="View"/></a>
+      <a href="https://github.com/cokovali10-sketch/NanoContainer/releases"><img src="https://img.shields.io/badge/-Download-22c55e?style=for-the-badge" alt="Download"/></a><br/>
+      <sub><b>Enterprise Linux Container Platform</b> — written from scratch using pure Linux syscalls</sub><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Namespaces-PID%2FMount%2FUTS%2FNet-FCC624?style=flat" alt="Namespaces"/>
+      <img src="https://img.shields.io/badge/cgroups-v2-RedHat?style=flat" alt="cgroups"/>
+      <img src="https://img.shields.io/badge/Security-Seccomp%2BCaps-brightgreen?style=flat" alt="Security"/>
+      <img src="https://img.shields.io/badge/API-23%20Endpoints-blue?style=flat" alt="API"/>
+      <img src="https://img.shields.io/badge/Dashboard-Web%20UI-purple?style=flat" alt="Dashboard"/>
+    </td>
+  </tr>
+</table>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    NanoContainer Platform                       │
+├──────────┬──────────┬──────────┬──────────┬─────────────────────┤
+│   CLI    │ REST API │ Dashboard│ Compose  │    Image Builder    │
+│ 16 cmds  │23 endpoints│  Web UI │  YAML    │   Dockerfile        │
+├──────────┴──────────┴──────────┴──────────┴─────────────────────┤
+│  Namespaces │ cgroups v2 │ OverlayFS │ Bridge │  Seccomp BPF   │
+│  PID/Mount  │ CPU/Memory │  CoW      │ veth   │  50+ blocked   │
+│  UTS/Net    │ PIDs       │  Layers   │ NAT    │  syscalls      │
+├─────────────┴────────────┴───────────┴────────┴────────────────┤
+│  9333 lines of Go · 41 modules · 51 files · 14MB binary        │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Key Features:**
+- 🐧 **Pure Linux** — Direct syscall usage (clone, pivot_root, mount, seccomp)
+- 🔒 **Security** — Seccomp BPF, capabilities, read-only rootfs, no-new-privs
+- 🌐 **Networking** — Bridge, veth, NAT, DNS, port forwarding
+- 📦 **Compose** — Multi-container orchestration with dependency resolution
+- 🖥️ **Web Dashboard** — Real-time dark-themed UI
+- 🔐 **Secrets** — AES-256-GCM encrypted storage
+- 🔄 **Orchestration** — Rolling updates, load balancing, health checks
+- 📊 **Monitoring** — Prometheus metrics, real-time stats
+
+> **"I wanted to understand how Docker works under the hood, so I wrote my own container runtime in 9,000 lines of Go."**
+
+---
+
 ## 🧭 What I Build
 
 | Field | What I do |
