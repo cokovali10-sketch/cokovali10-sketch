@@ -1,182 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+I'm+cokovali10-sketch;Full-stack+%2B+AI+Engineer;Security+%2B+Minecraft+%2B+LLM;Building+powerful+software" alt="Typing SVG" />
+</p>
 
-```
- ████████╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗ █████╗ ███╗   ██╗
- ╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║
-    ██║   ███████║███████╗█████╔╝     ███████╗██║     ███████║██╔██╗ ██║
-    ██║   ██╔══██║╚════██║██╔═██╗     ╚════██║██║     ██╔══██║██║╚██╗██║
-    ██║   ██║  ██║███████║██║  ██╗    ███████║╚██████╗██║  ██║██║ ╚████║
-    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<h1 align="center">⚡ cokovali10-sketch</h1>
 
-# 👋 Hello, I'm Satuarb
+<p align="center">
+  <b>Software Engineer · AI / LLM · Cybersecurity · Full-stack</b>
+</p>
 
-### `> 15-year-old systems programmer | Security Researcher | AI Engineer`
+<p align="center">
+  <a href="https://github.com/cokovali10-sketch?tab=repositories"><img src="https://img.shields.io/badge/Projects-18+-38bdf8?style=for-the-badge" alt="Projects"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python" alt="Python"/></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=for-the-badge&logo=go" alt="Go"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge&logo=java" alt="Java"/></a>
+  <img src="https://img.shields.io/badge/MCP-AI%20Tools-6b21a8?style=for-the-badge" alt="MCP"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+of+security+and+AI;Systems+programming+at+the+edge;Crafting+code+that+matters)
-
-![Location](https://img.shields.io/badge/📍-Kazakhstan-4CAF50?style=flat-square)
-![Profile](https://img.shields.io/badge/🔥-Open+to+Collaboration-FF6B35?style=flat-square)
-
----
-
-</div>
-
-## 🧠 About Me
-
-I'm a **15-year-old systems programmer** from Kazakhstan passionate about building high-performance, security-critical software. I specialize in **low-level systems**, **security research**, and **AI engineering** — writing code that runs close to the metal while pushing the boundaries of what's possible. From building antivirus engines in Rust to designing AI agents with 100+ tools, I'm driven by the belief that **software should be fast, secure, and intelligent**.
-
-I spend my time reverse-engineering malware, developing endpoint detection systems, and building AI-powered tools. Whether it's eBPF kernel modules or Go concurrency patterns, I'm always learning, always building.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cokovali10-sketch&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub stats" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 What I Build
+
+| Field | What I do |
+|---|---|
+| 🤖 **AI / LLM** | Multi-agent orchestration, MCP servers, RAG, LLM-powered scrapers & analytics |
+| 🔐 **Security** | XDR/SOAR platforms, eBPF tracing, honeypots, API fuzzing, threat detection |
+| 🎮 **Minecraft** | World scanning, region file analysis, performance modding |
+| 🌐 **Web / Full-stack** | Compose Multiplatform, FastAPI, WebGL/3D UIs, bots |
+
+## 📦 Highlighted Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Hermes Studio
-> AI agent platform with 100+ integrated tools
-
-An advanced AI orchestration framework that connects language models to real-world capabilities — from code execution and web browsing to file management and system operations.
-
-`Python` `AI` `Agents`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SpectreShield
-> eBPF-based Endpoint Detection & Response
-
-A kernel-level EDR solution leveraging eBPF for real-time threat detection, process monitoring, and behavioral analysis with minimal performance overhead.
-
-`eBPF` `C` `Security`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 NanoContainer
-> Lightweight container runtime — 12,300+ lines of Go
-
-A from-scratch container implementation featuring namespace isolation, cgroup resource management, and layered filesystems. A deep dive into how Docker actually works.
-
-`Go` `Containers` `Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 CoreEDR
-> Next-gen antivirus engine written in Rust
-
-A memory-safe, high-performance antivirus engine leveraging Rust's zero-cost abstractions for real-time malware detection and system protection.
-
-`Rust` `Security` `Antivirus`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 RetroTerm
-> A roguelike dungeon crawler in C++
-
-A terminal-based roguelike featuring procedural generation, turn-based combat, and retro ASCII graphics — built from scratch in C++.
-
-`C++` `Game Dev` `Terminal`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 GoVault
-> Encrypted storage & secrets management in Go
-
-A secure vault for managing secrets, API keys, and sensitive data with military-grade encryption, atomic operations, and a clean CLI interface.
-
-`Go` `Encryption` `DevOps`
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="200"><b>⚡ AgentMesh</b><br/><small>Python</small><br/><a href="https://github.com/cokovali10-sketch/AgentMesh"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Multi-agent AI orchestration: planner, router, layered memory, MCP</sub></td>
+    <td align="center" width="200"><b>🛡️ ApexGuard</b><br/><small>Go</small><br/><a href="https://github.com/cokovali10-sketch/ApexGuard"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Autonomous enterprise defense cluster with eBPF + AI deception</sub></td>
+    <td align="center" width="200"><b>🕵️ AegisX</b><br/><small>Python</small><br/><a href="https://github.com/cokovali10-sketch/AegisX-"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Autonomous XDR/SOAR: honeypots, eBPF, AI threat scoring</sub></td>
+    <td align="center" width="200"><b>📄 GlassParse AI</b><br/><small>Go</small><br/><a href="https://github.com/cokovali10-sketch/glassparse-ai"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>LLM-ready HTML → JSON/Markdown/embeddings scraper</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🧠 flashcard-mcp</b><br/><small>Python</small><br/><a href="https://github.com/cokovali10-sketch/flashcard-mcp"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>SM-2 spaced-repetition memory server for any AI assistant</sub></td>
+    <td align="center" width="200"><b>🌍 WorldScanner</b><br/><small>Kotlin</small><br/><a href="https://github.com/cokovali10-sketch/WorldScanner"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Minecraft region-file scanner: blocks, items, entities → JSON/CSV</sub></td>
+    <td align="center" width="200"><b>🎭 MockPulse</b><br/><small>Go/Kotlin</small><br/><a href="https://github.com/cokovali10-sketch/Mockpulse"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Zero-config OpenAPI mock server with Lua scripting & chaos</sub></td>
+    <td align="center" width="200"><b>☕ caffeine-glass-ui</b><br/><small>HTML/JS</small><br/><a href="https://github.com/cokovali10-sketch/caffeine-glass-ui"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Luxury 3D WebGL + Glassmorphism one-page experience</sub></td>
+  </tr>
 </table>
 
----
+> Explore all projects → [Full repository list](https://github.com/cokovali10-sketch?tab=repositories)
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
-
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-
-### Security
-![YARA](https://img.shields.io/badge/YARA-FF5733?style=for-the-badge&logo=yara&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-4A90D9?style=for-the-badge&logo=sigma&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-1976D2?style=for-the-badge&logo=mitreatt--ck&logoColor=white)
-![eBPF](https://img.shields.io/badge/eBPF-F7B32E?style=for-the-badge&logo=ebpf&logoColor=black)
-
-</div>
-
----
+```
+Languages     Python · Go · Java · Kotlin · JavaScript · TypeScript · HTML/CSS
+AI / LLM      OpenAI API · Anthropic Claude · MCP · RAG · Vector embeddings
+Frameworks    FastAPI · Compose Multiplatform · aiogram · JDA · Typer
+Security      eBPF · Wireshark · Honeypots · API fuzzing · Threat intelligence
+Infra         Git/GitHub Actions · Docker · SQLite · WebSockets · REST
+```
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cokovali10-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C4E&icon_color=79C0FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cokovali10-sketch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C4E&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cokovali10-sketch&theme=radical&hide_border=true&background=0D1117&stroke=F75C4E&ring=F75C4E&fire=F75C4E&currStreakLabel=C9D1D9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokovali10-sketch&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=cokovali10-sketch&theme=transparent&hide_border=true&stroke=38bdf8&ring=a78bfa&fire=38bdf8" alt="Streak" />
+</p>
 
 ---
 
-## 📈 Recent Activity
-
-<!--START activity-for-cokovali10-sketch-->
-
-![](https://github-readme-ticker.vercel.app/api/ticker?username=cokovali10-sketch&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C4E&text_color=C9D1D9)
-
-<!--END activity-for-cokovali10-sketch-->
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cokovali10-sketch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satuarb@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satuarb)
-
-</div>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   "The best way to predict the future is to    │
-│    build it." — Alan Kay                        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
----
-
-![](https://komarev.com/ghpvc/?username=cokovali10-sketch&color=FF6B35&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <i>Always learning · Always building · Quality over quantity</i>
+</p>
