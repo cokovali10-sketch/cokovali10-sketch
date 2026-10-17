@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Flagship Project: NanoContainer
+## 🚀 Flagship Projects
 
 <table>
   <tr>
@@ -76,6 +76,39 @@
 - 📊 **Monitoring** — Prometheus metrics, real-time stats
 
 > **"I wanted to understand how Docker works under the hood, so I wrote my own container runtime in 9,000 lines of Go."**
+
+---
+
+## 🔨 FORGE — AI Dev-Automation Toolkit
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <b>🔨 forge-ai-toolkit</b><br/>
+      <small>Python · MCP · 8,800+ lines · 142 tests</small><br/>
+      <a href="https://github.com/cokovali10-sketch/forge-ai-toolkit"><img src="https://img.shields.io/badge/-View%20Repository-38bdf8?style=for-the-badge" alt="View"/></a><br/>
+      <sub><b>Universal dev-automation factory for AI agents</b> — a 7-stage verification conveyor, a refactoring &amp; code-quality advisor with <i>safe auto-fix</i> and rollback, a self-healing loop, code generators (web / Python service / Go CLI / Paper plugin) and an MCP server. Works on <b>any</b> project — and found &amp; fixed 3 real bugs in itself.</sub><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Conveyor-7%20stages-blue?style=flat" alt="Conveyor"/>
+      <img src="https://img.shields.io/badge/Auto--fix-magic%20numbers%20%2B%20dead%20code-brightgreen?style=flat" alt="Autofix"/>
+      <img src="https://img.shields.io/badge/Self--healing-loop-purple?style=flat" alt="Loop"/>
+      <img src="https://img.shields.io/badge/MCP-server-6b21a8?style=flat" alt="MCP"/>
+      <img src="https://img.shields.io/badge/Tests-142%20passing-4ade80?style=flat" alt="Tests"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛡️ Security Flagships
+
+<table>
+  <tr>
+    <td align="center" width="250"><b>🛡️ CoreEDR</b><br/><small>Rust</small><br/><a href="https://github.com/cokovali10-sketch/CoreEDR"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Production-grade EDR/AV engine: YARA, ML, real-time monitoring, encrypted quarantine, REST API + Web UI</sub></td>
+    <td align="center" width="250"><b>🛰️ SpectreShield</b><br/><small>Go</small><br/><a href="https://github.com/cokovali10-sketch/SpectreShield"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>eBPF-powered EDR &amp; behavioral threat-intelligence daemon — 24 modules, 30+ API endpoints</sub></td>
+    <td align="center" width="250"><b>🎯 ThreatForge</b><br/><small>Python</small><br/><a href="https://github.com/cokovali10-sketch/ThreatForge"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/><sub>Open-source SOC platform: network monitoring, threat detection, incident response, forensics</sub></td>
+  </tr>
+</table>
 
 ---
 
