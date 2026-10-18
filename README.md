@@ -85,9 +85,9 @@
   <tr>
     <td align="center" width="100%">
       <b>🔨 forge-ai-toolkit</b><br/>
-      <small>Python · MCP · 9,600+ lines · 190 tests</small><br/>
+      <small>Python · MCP · 9,700+ lines · 197 tests</small><br/>
       <a href="https://github.com/cokovali10-sketch/forge-ai-toolkit"><img src="https://img.shields.io/badge/-View%20Repository-38bdf8?style=for-the-badge" alt="View"/></a><br/>
-      <sub><b>Universal dev-automation factory for AI agents</b> — a single local <b>dashboard</b> (health, quality trend, deps, secrets, pipe history, arena) with a JSON API, a <b>baseline</b> gate that fails only on <i>new</i> findings ("hold the line"), an 8-stage verification conveyor, a refactoring &amp; code-quality advisor with <i>safe auto-fix</i> and rollback, a self-healing loop, a <b>kit</b> (project map, universal test runner, CI generator, secret &amp; dependency scan, environment doctor, one-shot health audit, project onboarding), code generators (web / Python / Go / Node / Rust / Paper) and an MCP server. Works on <b>any</b> project — and found &amp; fixed 3 real bugs in itself.</sub><br/>
+      <sub><b>Universal dev-automation factory for AI agents</b> — a single local <b>dashboard</b> (health, quality trend, deps, secrets, pipe history, arena) with a JSON API, a <b>baseline</b> gate that fails only on <i>new</i> findings ("hold the line") plus <b>batch safe auto-fixes</b>, an 8-stage verification conveyor, a refactoring &amp; code-quality advisor with <i>rollback</i>, a self-healing loop, a <b>kit</b> (project map, universal test runner, CI generator, secret &amp; dependency scan, environment doctor, one-shot health audit, project onboarding), code generators (web / Python / Go / Node / Rust / Paper) and an MCP server. Works on <b>any</b> project — and found &amp; fixed 3 real bugs in itself.</sub><br/>
       <br/>
       <img src="https://img.shields.io/badge/Dashboard-serve%20%2B%20API-22d3ee?style=flat" alt="Dashboard"/>
       <img src="https://img.shields.io/badge/Baseline-hold%20the%20line-0ea5e9?style=flat" alt="Baseline"/>
@@ -95,7 +95,7 @@
       <img src="https://img.shields.io/badge/Auto--fix-magic%20numbers%20%2B%20dead%20code-brightgreen?style=flat" alt="Autofix"/>
       <img src="https://img.shields.io/badge/Self--healing-loop-purple?style=flat" alt="Loop"/>
       <img src="https://img.shields.io/badge/MCP-server-6b21a8?style=flat" alt="MCP"/>
-      <img src="https://img.shields.io/badge/Tests-190%20passing-4ade80?style=flat" alt="Tests"/>
+      <img src="https://img.shields.io/badge/Tests-197%20passing-4ade80?style=flat" alt="Tests"/>
     </td>
   </tr>
 </table>
