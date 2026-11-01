@@ -150,7 +150,7 @@ flowchart LR
       <b>🔧 ForgeHub</b><br/>
       <sub>Python · 14 tests</sub><br/>
       <a href="https://github.com/cokovali10-sketch/forgehub"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
-      <sub>Master workshop for AI: knowledge + tool registry. FORGE, SOLAR, MATRIX, Helix, Qorvex in one map. Plugin-based.</sub>
+      <sub>Master workshop for AI: knowledge + tool registry. 8 modules, 22 playbooks, 10 tools, MCP server, semantic search. Plugin-based.</sub>
     </td>
     <td align="center" width="200">
       <b>☀️ SOLAR</b><br/>
