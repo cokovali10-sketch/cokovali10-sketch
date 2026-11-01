@@ -148,9 +148,15 @@ flowchart LR
   <tr>
     <td align="center" width="200">
       <b>🔧 ForgeHub</b><br/>
-      <sub>Python · 14 tests</sub><br/>
+      <sub>Python · 25 tests</sub><br/>
       <a href="https://github.com/cokovali10-sketch/forgehub"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
-      <sub>Master workshop for AI: knowledge + tool registry. 8 modules, 22 playbooks, 10 tools, MCP server, semantic search. Plugin-based.</sub>
+      <sub>Master workshop for AI: knowledge + tool registry. 8 modules, 22 playbooks, 10 tools, MCP server, semantic search.</sub>
+    </td>
+    <td align="center" width="200">
+      <b>🌀 MATRIX</b><br/>
+      <sub>Python · 23 tests</sub><br/>
+      <a href="https://github.com/cokovali10-sketch/matrix"><img src="https://img.shields.io/badge/-View-38bdf8?style=flat-square" alt="View"/></a><br/>
+      <sub>AI work environment: knowledge, tools, tasks, memory, simulation, eval, agents. Learning loop.</sub>
     </td>
     <td align="center" width="200">
       <b>☀️ SOLAR</b><br/>
